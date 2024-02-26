@@ -13,6 +13,8 @@ security@reddit.com.
 
 ### API
 
+sorry for the disturbance
+
 For notices about reddit API changes and discussion of reddit API client development, subscribe to the [/r/redditdev](http://www.reddit.com/r/redditdev) and [/r/changelog](http://www.reddit.com/r/changelog) subreddits.
 
 To learn more about reddit's API, check out our [automated API documentation](http://www.reddit.com/dev/api) and the [API wiki page](https://github.com/reddit/reddit/wiki/API). Please use a unique User-Agent string and take care to abide by our [API rules](https://github.com/reddit/reddit/wiki/API#wiki-rules).
